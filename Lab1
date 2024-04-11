@@ -1,0 +1,25 @@
+Pre-Lab Questions:
+1)What is Natural Language Processing?
+2)What is NLTK?
+3)Mention some methods available in NLTK package and explain them?
+In Lab:
+1)Install NLTK package
+->colab
+->pycharm
+->cmd
+Steps:
+1) Install python in Windows
+2) pip install notebook
+
+Note:Dataset are predefined in NLTK Package
+
+Post Lab:
+1)Install/download required dataset from Nltk package
+command:
+import nltk
+nltk.download()
+
+Post lab:
+2)
+3)Mention the uses of NLTK
+4)Important of NLTK
